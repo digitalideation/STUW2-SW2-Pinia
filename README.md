@@ -1,4 +1,4 @@
-# STUW2-SW2 — TypeScript & Nuxt
+# STUW2-SW2 — Pinia Storage
 
 Dieses Projekt ist eine Lernumgebung für **TypeScript in Nuxt 4**.
 Es enthält eine Demo-App (Cocktail-Suche) und begleitende Dokumentation.
@@ -30,9 +30,7 @@ app/
 
 ## Dokumentation
 
-| Datei                                                    | Inhalt                                                                                                                                        |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`typescript-setup.md`](typescript-setup.md)             | Nuxt & TypeScript einrichten (neues/bestehendes Projekt, `nuxt.config.ts`)                                                                    |
-| [`typescript-komponenten.md`](typescript-komponenten.md) | TypeScript-Konzepte erklärt: Primitive Typen, Interfaces, Generics, Inferenz, Union Types, Nullish Coalescing — alles anhand der Cocktail-App |
-| [`pinia-store.md`](pinia-store.md)                       | Pinia State Management: Installation, State, Getters, Actions — am Cocktail-Beispiel                                                          |
-| [`tailwind-v4-install.md`](tailwind-v4-install.md)       | Tailwind CSS v4 in Nuxt 4 installieren                                                                                                        |
+| Datei                                              | Inhalt                                                                               |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [`pinia-store.md`](pinia-store.md)                 | Pinia State Management: Installation, State, Getters, Actions — am Cocktail-Beispiel |
+| [`tailwind-v4-install.md`](tailwind-v4-install.md) | Tailwind CSS v4 in Nuxt 4 installieren                                               |
